@@ -11,8 +11,7 @@ The Observer pattern provides a loose coupling between objects, since the Subjec
 
 
 GENERIC STRUCTURE OF THE OBSERVER DESIGN PATTERN
-<img width="482" alt="image" src="https://user-images.githubusercontent.com/119789101/233459627-c944c6cd-d9fc-4f4e-99ee-c11df09d2c25.png">
-
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/119789101/233460012-7eccf44f-d5bb-4b72-ae08-57160e496e35.png">
 
 
 THE SCENARIO
@@ -27,8 +26,7 @@ Suppose the second release of the newsletter has information regarding only Spor
 This is solved using the observer design pattern where the newsletter is the subject whose release is being monitored. The observers are the subscribers who wait for a notification of release. The newsletter maintains an array list of all its subscribers and sends out a notification when there is a release. Each release consists of news articles classified by their genres. The subscribers read articles only under their area of interest.THE UML DIAGRAM
 
 THE UML DIAGRAM
-<img width="482" alt="image" src="https://user-images.githubusercontent.com/119789101/233459746-2007edc2-0a63-4d7e-b8d5-1140c57b38b6.png">
-
+![image](https://user-images.githubusercontent.com/119789101/233460110-e21fd090-015d-48a5-b4f2-e7460cd7bc36.png)
 
 THE SEQUENCE DIAGRAM
 ![image](https://user-images.githubusercontent.com/119789101/233459851-ae2993b4-9e9a-495d-83ef-952cc9d9c909.png)
