@@ -28,8 +28,7 @@ This is solved using the observer design pattern where the newsletter is the sub
 
 THE UML DIAGRAM
 
-![image](https://user-images.githubusercontent.com/119789101/233460110-e21fd090-015d-48a5-b4f2-e7460cd7bc36.png)
-
+![uml](https://user-images.githubusercontent.com/119789101/234597402-613dd8db-a50f-446b-8e4c-906a38eb9585.png)
 THE SEQUENCE DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/119789101/233459851-ae2993b4-9e9a-495d-83ef-952cc9d9c909.png)
